@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "Name": "John",
+      "Id": 56,
+      "Class": "Class1",
+      "Percentage": 90.5,
+      "Grade": "A"
+    },
+    {
+      "Name": "Dan",
+      "Id": 17,
+      "Class": "Class2",
+      "Percentage": 85.0,
+      "Grade": "B"
+    },
+    {
+      "Name": "Dibyam",
+      "Id": 27,
+      "Class": "Class3",
+      "Percentage": 88.0,
+      "Grade": "B"
+    },
+    {
+      "Name": "fds",
+      "Id": 32,
+      "Class": "Class5",
+      "Percentage": 65.3,
+      "Grade": "D"
+    },
+    {
+      "Name": "Manaswee",
+      "Id": 23213,
+      "Class": "Class1",
+      "Percentage": 90,
+      "Grade": "A"
+    }
+  ]
+}

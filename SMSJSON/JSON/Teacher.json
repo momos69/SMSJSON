@@ -1,0 +1,29 @@
+﻿{
+    "teachers": [
+        {
+            "Name": "Andrew",
+            "Id": 8580
+           
+        },
+        {
+            "Name": "Daniel",
+            "Id": 1798
+          
+        },
+        {
+            "Name": "Diya",
+            "Id": 27434
+           
+        },
+        {
+            "Name": "abcd",
+            "Id": 43342
+          
+        },
+        {
+            "Name": "dffsfds",
+            "Id": 345242
+           
+        }
+    ]
+}
